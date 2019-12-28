@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74351054702",
+    "firebase_url": "https://gym-sinh.firebaseio.com",
+    "project_id": "gym-sinh",
+    "storage_bucket": "gym-sinh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74351054702:android:f453287aa4dec289c6bb7f",
+        "android_client_info": {
+          "package_name": "com.example.admin.androidebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74351054702-nbbv9us6609n2q4urbh2m9k1ufg071u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVutL8mKkR77Yls-hJFxfSI3YOs1Iy2bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74351054702-nbbv9us6609n2q4urbh2m9k1ufg071u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
